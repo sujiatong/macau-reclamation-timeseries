@@ -54,7 +54,7 @@ Using index thresholding (e.g., NDWI) to extract coastline and reclaimed land.
 ### 3. Temporal Visualization
 Each year’s binary land mask is exported and combined into a **time-series GIF** to show urban expansion.
 
-For more information, please preview the full [R Markdown HTML](rmd/landsat__mo_gif.html/) file included in this repository.
+For more information, please preview the full [R Markdown HTML](https://sujiatong.github.io/macau-reclamation-timeseries/rmd/landsat__mo_gif.html) file included in this repository.
 
 
 ## 📽 Results — Time-Series GIF
